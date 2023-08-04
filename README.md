@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arapurbo18181&label=Profile%20views&color=0e75b6&style=flat" alt="arapurbo18181" /> </p>
 
-- 🌱 I’m currently learning **zustand**
+- 🌱 I’m currently learning **devops**
 
 - 👨‍💻 All of my projects are available at [https://apurbo13.vercel.app/](https://apurbo13.vercel.app/)
 
