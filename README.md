@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arapurbo18181&label=Profile%20views&color=0e75b6&style=flat" alt="arapurbo18181" /> </p>
 
-- 🌱 I’m currently learning **Nextjs 13**
+- 🌱 I’m currently learning **zustand**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-azure-56.vercel.app/](https://portfolio-two-azure-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://apurbo13.vercel.app/](https://apurbo13.vercel.app/)
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **md.abdul.zabber.islam.apurbo@g.bracu.ac.bd**
+- 📫 How to reach me **mdabdulzabberislamapurbo@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-two-azure-56.vercel.app/MyResume.pdf](https://portfolio-two-azure-56.vercel.app/MyResume.pdf)
+- 📄 Know about my experiences [https://apurbo13.vercel.app/](https://apurbo13.vercel.app/)
 
 - ⚡ Fun fact **I am a very friendly and supportive person**
 
