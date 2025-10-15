@@ -1,13 +1,13 @@
 [![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://portfolio-two-azure-56.vercel.app/)
 <h1 align="center">Assalamualaikum 👋, I'm MD Abdul Zabber Islam Apurbo</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arapurbo18181&label=Profile%20views&color=0e75b6&style=flat" alt="arapurbo18181" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://apurbo.dev/](https://apurbo.dev/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **contact@apurbo.dev**
 
